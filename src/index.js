@@ -249,7 +249,7 @@ function App(){
                                     <Container>
                                     <Label attached='top left'>Die</Label>
                                     <h3>D1-509A-93A</h3>
-                                    </Container>
+                                    </Container> 
                             </Segment>
                             <Segment textAlign='center'>
                         <Statistic size='huge' label='Produced' value='5359' />
